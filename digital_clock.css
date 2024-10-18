@@ -1,0 +1,69 @@
+body{
+    width:400px;
+    background-size: cover;
+    background-image: url('./pexels-david-besh-884788\ \(1\).jpg');
+
+}
+.container2{
+    
+    color: white;
+    border: 20px ;
+    display: flex;
+    position:relative ;
+    left: 400px;
+    top: 100px;
+    border-radius: 20px;
+    
+    
+    
+}
+h6{
+    height: 20px;
+    width: 100px;
+    border: 2px solid;
+    align-items: center;
+    text-align: center;
+    background-color: blueviolet;
+    justify-content: space-evenly;
+    margin: 5px;
+}
+
+.container1{
+    
+    color: white;
+    
+    border: 20px  ;
+
+    display: flex;
+    position: relative;
+    left: 400px;
+    top: 130px;
+    
+    
+    
+}
+h1{
+    height: 80px;
+    width: 100px;
+    border: 2px solid;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(29, 46, 237);
+    justify-content: space-evenly;
+    margin: 5px;
+}
+h3{
+    color: greenyellow;
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+#meridian{
+    border: 1px solid gray;
+    background-color: rgb(55, 0, 255);
+    position: relative;
+    left: 20px;
+    top: -20px;
+
+    
+}
